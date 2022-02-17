@@ -11,4 +11,9 @@ public class JaimeAltuzarraPelotaMano {
 		this.numerosFronton = numerosFronton;
 		this.pelotaMano = pelotaMano;
 	}
+
+	public String getCategoriaPelota() {
+		return categoriaPelota;
+	}
+	
 }
