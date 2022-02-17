@@ -23,5 +23,9 @@ public class JaimeAltuzarraPelotaMano {
 	public int getNumerosFronton() {
 		return numerosFronton;
 	}
+
+	public void setNumerosFronton(int numerosFronton) {
+		this.numerosFronton = numerosFronton;
+	}
 	
 }
