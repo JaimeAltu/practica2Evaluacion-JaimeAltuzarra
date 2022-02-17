@@ -35,5 +35,14 @@ public class JaimeAltuzarraPelotaMano {
 	public void setPelotaMano(String pelotaMano) {
 		this.pelotaMano = pelotaMano;
 	}
-	
+	private static void imprimirNombre(String pelotaMano) {
+		for(int i=0;i<1000;i++) {
+			System.out.println(pelotaMano);
+			
+		}
+	}
+	public static void main(String[] args) {
+		imprimirNombre("PelotaVasca");
+		
+	}
 }
