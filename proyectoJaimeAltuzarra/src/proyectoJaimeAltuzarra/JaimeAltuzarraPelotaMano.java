@@ -19,5 +19,9 @@ public class JaimeAltuzarraPelotaMano {
 	public void setCategoriaPelota(String categoriaPelota) {
 		this.categoriaPelota = categoriaPelota;
 	}
+
+	public int getNumerosFronton() {
+		return numerosFronton;
+	}
 	
 }
