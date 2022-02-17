@@ -31,5 +31,9 @@ public class JaimeAltuzarraPelotaMano {
 	public String getPelotaMano() {
 		return pelotaMano;
 	}
+
+	public void setPelotaMano(String pelotaMano) {
+		this.pelotaMano = pelotaMano;
+	}
 	
 }
